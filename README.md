@@ -1,5 +1,11 @@
 # Google Photos Downloader by Express + Nodejs
 
+# AUTHOR
+
+NAME : SHAKIB AHMED
+E-MAIL : SHAKIBWAP@YAHOO.COM
+
+# SAMPLE
 
 ![Application](https://i.ibb.co/DphD5JV/Screenshot-2023-11-23-171938.png?raw=true)
 
