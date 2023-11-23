@@ -1,1 +1,2 @@
-# Google-Photos-Downloader
+# Google Photos Downloader by Express + Nodejs
+
